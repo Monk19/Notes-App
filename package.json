@@ -1,0 +1,16 @@
+{
+  "name": "my_note_app",
+  "version": "1.0.0",
+  "description": "Udemy notes app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"HumbelFool\"",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.1.17",
+    "yargs": "^12.0.2"
+  }
+}
